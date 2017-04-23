@@ -1,0 +1,72 @@
+<!--Footer-->
+<footer class="page-footer wrapper center-on-small-only">
+    <div class="page-wrapper">
+    <!--Footer Links-->
+        <div class="container-fluid">
+            <div class="row">
+                <!--Second column-->
+                <div class="col-md-3 offset-md-1">
+                    <h5 class="title">Pages</h5>
+                    <ul>
+                        <li><a href="#home" class="page-scroll">Home</a></li>
+                        <li><a href="#about" class="page-scroll">About</a></li>
+                        <li><a href="#products" class="page-scroll">Products</a></li>
+                        <li><a href="#services" class="page-scroll">Services</a></li>
+                        <li><a href="#clients" class="page-scroll">Clients</a></li>
+                        <li><a href="#contact" class="page-scroll">Contact</a></li>
+                    </ul>
+                </div>
+                <!--/.Second column-->
+
+                <hr class="hidden-md-up">
+
+                <!--Third column-->
+                <div class="col-md-4">
+                    <h5 class="title">Contact</h5>
+                    <ul>
+                        <li><i class="fa fa-envelope"></i> fourbglassalum@yahoo.com</li>
+                        <li><i class="fa fa-phone"></i> +63 905 564 0748</li>
+                        <li><i class="fa fa-map-marker"></i> U.P. Campus, Diliman, Quezon City PH</li>
+                    </ul>
+                </div>
+                <!--/.Third column-->
+
+                <hr class="hidden-md-up">
+
+                <!--Fourth column-->
+                <div class="col-md-4">
+                    <h5 class="title">Follow us</h5>
+                    <ul>
+                        <li class="h5">
+                            <a class="badge light-blue darken-4"><i class="fa fa-facebook"></i></a>&nbsp;
+                            <a class="badge blue"><i class="fa fa-twitter"></i></a>&nbsp;
+                            <a class="badge light-blue darken-3"><i class="fa fa-linkedin"></i></a>&nbsp;
+                        </li>
+                    </ul>
+                </div>
+                <!--/.Fourth column-->
+
+            </div>
+        </div>
+    </div>
+    <!--/.Footer Links-->
+
+    <hr>
+
+    <!--Copyright-->
+    <div class="footer-copyright">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-7 offset-sm-1 text-left">
+                    Copyright © 2017 <a href="{{url('/')}}"> BLB4B Glass Aluminum Installation and Supply</a>. All Rights Reserved.
+                </div>
+                <div class="col-sm-3 text-right">
+                    Coded by <a target="_blank" href="//www.theoroque.com/">TheoRoque.com</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--/.Copyright-->
+
+</footer>
+<!--/.Footer-->
