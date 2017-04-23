@@ -19,7 +19,7 @@
 
     <title>BLB4B Glass Aluminum Installation and Supply</title>
 </head>
-<body data-spy="scroll" data-target=".navbar" data-offset="50">
+<body data-spy="scroll" data-target="navbar" data-offset="50">
 
     @include('common.navbar')
 
@@ -47,11 +47,10 @@
     <script src="/js/tether.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/mdb.min.js"></script>
+    <script src="/js/custom.js"></script>
     <script>
         new WOW().init();
     </script>
-
-    @include('common.custom')
 
 </body>
 </html>

@@ -1,5 +1,5 @@
 <!--Carousel Wrapper-->
-<div id="home" class="carousel slide" data-ride="carousel" data-interval="3000">
+<div id="home" class="carousel slide" data-ride="carousel" data-interval="false">
     <!--Indicators-->
     <ol class="carousel-indicators">
         <li data-target="#home" data-slide-to="0" class="active"></li>

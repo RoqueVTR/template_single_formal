@@ -11,13 +11,13 @@
 	                		<h2>{{ $service->name }}</h2>
 	                		<p>{{ $service->description }}</p>
 	                	</div>
-                		<div class="col-md-4 col-sm-12 z-depth-1 service-image-container wow fadeInRight">
+                		<div class="col-md-4 col-sm-12 z-depth-2 service-image-container wow fadeInRight">
 	                		<div class="view hm-black-light hm-zoom">
 	                            <img src="{{ $service->image_url }}" class="img-fluid service-image" alt="{{ $service->name }}">
 	                        </div>
 	                	</div>
                 	@else
-	                	<div class="col-md-4 col-sm-12 z-depth-1 service-image-container wow fadeInLeft">
+	                	<div class="col-md-4 col-sm-12 z-depth-2 service-image-container wow fadeInLeft">
 	                		<div class="view hm-black-light hm-zoom">
 	                            <img src="{{ $service->image_url }}" class="img-fluid service-image" alt="{{ $service->name }}">
 	                        </div>

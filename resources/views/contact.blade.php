@@ -50,7 +50,7 @@
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" style="padding-top: 20px; margin-bottom: 20px;">
-						<div class="overlay hm-white-slight z-depth-1">
+						<div class="overlay hm-white-slight z-depth-2">
 							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9276.860704390007!2d121.0524370720818!3d14.650469672380712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b70cd4472de5%3A0xaf168c459d09d89c!2sU.P.+Village%2C+Diliman%2C+Quezon+City%2C+Metro+Manila!5e0!3m2!1sen!2sph!4v1492962949566" id="map" frameborder="0" allowfullscreen></iframe>
 						</div>	
 					</div>
