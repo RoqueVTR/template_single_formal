@@ -19,8 +19,6 @@ class CreateProductsTable extends Migration
             $table->longText('description');
             $table->longText('image_url');
             $table->timestamps();
-
-            $table->primary('id');
         });
     }
 

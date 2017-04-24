@@ -20,8 +20,6 @@ class CreateClientsTable extends Migration
             $table->date('client_at')->nullable();
             $table->longText('testimonial')->nullable();
             $table->timestamps();
-
-            $table->primary('id');
         });
     }
 
