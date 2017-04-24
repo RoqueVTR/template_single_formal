@@ -14,14 +14,13 @@ class CreateClientsTable extends Migration
     public function up()
     {
         Schema::create('clients', function (Blueprint $table) {
-            $table->increments('id');
+            $table->bigIncrements('id');
             $table->string('name');
             $table->longText('image_url');
             $table->date('client_at')->nullable();
             $table->longText('testimonial')->nullable();
             $table->timestamps();
         });
-        DB::update("ALTER TABLE clients AUTO_INCREMENT = 1;");
     }
 
     /**

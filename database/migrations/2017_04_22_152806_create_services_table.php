@@ -14,13 +14,12 @@ class CreateServicesTable extends Migration
     public function up()
     {
         Schema::create('services', function (Blueprint $table) {
-            $table->increments('id');
+            $table->bigIncrements('id');
             $table->string('name');
             $table->longText('image_url');
             $table->longText('description');
             $table->timestamps();
         });
-        DB::update("ALTER TABLE services AUTO_INCREMENT = 1;");
     }
 
     /**
