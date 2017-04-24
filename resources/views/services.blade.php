@@ -6,7 +6,7 @@
    
                 @foreach($services as $service)
                 	<div class="row service-block">
-                	@if (substr($service->id, 0, 1) % 2 == 0)
+                	@if (substr($service->id, 0, 1) % 2 != 0)
 	                	<div class="col-md-8 col-sm-12 text-right wow fadeInRight">
 	                		<h2>{{ $service->name }}</h2>
 	                		<p>{{ $service->description }}</p>
