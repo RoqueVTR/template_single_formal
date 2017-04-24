@@ -21,6 +21,7 @@ class CreateClientsTable extends Migration
             $table->longText('testimonial')->nullable();
             $table->timestamps();
         });
+        DB::unprepared("ALTER TABLE clients AUTO_INCREMENT = 1;");
     }
 
     /**
