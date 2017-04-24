@@ -20,6 +20,7 @@ class CreateProductsTable extends Migration
             $table->longText('image_url');
             $table->timestamps();
         });
+        DB::update("ALTER TABLE products AUTO_INCREMENT = 1;");
     }
 
     /**
