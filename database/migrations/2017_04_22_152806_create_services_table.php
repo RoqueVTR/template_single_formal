@@ -19,6 +19,8 @@ class CreateServicesTable extends Migration
             $table->longText('image_url');
             $table->longText('description');
             $table->timestamps();
+
+            $table->primary('id');
         });
     }
 
