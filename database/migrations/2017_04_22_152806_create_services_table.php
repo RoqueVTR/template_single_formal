@@ -20,7 +20,6 @@ class CreateServicesTable extends Migration
             $table->longText('description');
             $table->timestamps();
         });
-        DB::unprepared("ALTER TABLE services AUTO_INCREMENT = 1;");
     }
 
     /**
