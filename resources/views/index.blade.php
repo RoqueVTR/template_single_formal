@@ -4,10 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Author: Vincent Theo Roque, Single page website for BLB4B Glass Aluminum Installation and Supply">
+    <meta name="description" content="Author: Jonathan Antone, Single page website for JNKRR Infrastructure">
     <meta name="keywords" content="glass, aluminum, glass aluminum, aluminum installation, aluminum supply, glass installation, glass supply, glass aluminum installation, glass aluminum supply, hardware">
     <meta name="robots" content="index,follow">
-    <meta name="DC.title" content="BLB4B Glass Aluminum Installation and Supply">
+    <meta name="DC.title" content="JNKRR Infrastructure">
     <meta name="csrf-token" content="{{ csrf_token() }}" />
 
     <link rel="stylesheet" type="text/css" href="/css/app.css">
@@ -17,7 +17,7 @@
         ]) !!};
     </script>
 
-    <title>BLB4B Glass Aluminum Installation and Supply</title>
+    <title>{{ config('app.name') }}</title>
 </head>
 <body data-spy="scroll" data-target="navbar" data-offset="50">
 

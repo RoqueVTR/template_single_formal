@@ -17,7 +17,7 @@
                 <div class="full-bg-img flex-center">
                     <ul class="animated fadeInUp col-md-12">
                         <li>
-                            <h1 class="h1-responsive flex-item">BLB4B Glass Aluminum Installation and Supply</h1>
+                            <h1 class="h1-responsive flex-item">{{ config('app.name') }}</h1>
                         </li>
                         <li>
                             <p class="flex-item">Be part of our community</p>

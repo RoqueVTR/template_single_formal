@@ -10,9 +10,7 @@
                     <ul>
                         <li><a href="#home" class="page-scroll">Home</a></li>
                         <li><a href="#about" class="page-scroll">About</a></li>
-                        <li><a href="#products" class="page-scroll">Products</a></li>
                         <li><a href="#services" class="page-scroll">Services</a></li>
-                        <li><a href="#clients" class="page-scroll">Clients</a></li>
                         <li><a href="#contact" class="page-scroll">Contact</a></li>
                     </ul>
                 </div>
@@ -24,9 +22,8 @@
                 <div class="col-md-4">
                     <h5 class="title">Contact</h5>
                     <ul>
-                        <li><i class="fa fa-envelope"></i> fourbglassalum@yahoo.com</li>
+                        <li><i class="fa fa-envelope"></i> jnkrr@gmail.com</li>
                         <li><i class="fa fa-phone"></i> +63 905 564 0748</li>
-                        <li><i class="fa fa-map-marker"></i> U.P. Campus, Diliman, Quezon City PH</li>
                     </ul>
                 </div>
                 <!--/.Third column-->
@@ -58,7 +55,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-7 offset-sm-1 text-left">
-                    Copyright © 2017 <a href="{{url('/')}}"> BLB4B Glass Aluminum Installation and Supply</a>. All Rights Reserved.
+                    Copyright © 2019 <a href="{{url('/')}}"> JNKRR Infrastructures</a>. All Rights Reserved.
                 </div>
                 <div class="col-sm-3 text-right">
                     Coded by <a target="_blank" href="//www.theoroque.com/">TheoRoque.com</a>
