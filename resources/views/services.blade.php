@@ -8,8 +8,9 @@
                 	<div class="row service-block">
                 	@if (substr($service->id, 0, 1) % 2 != 0)
 	                	<div class="col-md-8 col-sm-12 text-right wow fadeInRight">
-	                		<h2>{{ $service->name }}</h2>
-	                		<p>{{ $service->description }}</p>
+	                		<h2 class="service-title">{{ $service->name }}</h2>
+							<br />
+	                		<p class="service-description">{{ $service->description }}</p>
 	                	</div>
                 		<div class="col-md-4 col-sm-12 z-depth-2 service-image-container wow fadeInRight">
 	                		<div class="view hm-black-light hm-zoom">
@@ -23,8 +24,8 @@
 	                        </div>
 	                	</div>
 	                	<div class="col-md-8 col-sm-12 text-left wow fadeInLeft">
-	                		<h2>{{ $service->name }}</h2>
-	                		<p>{{ $service->description }}</p>
+	                		<h2 class="service-title">{{ $service->name }}</h2>
+	                		<p class="service-description">{{ $service->description }}</p>
 	                	</div>
 	                @endif
 	                </div>

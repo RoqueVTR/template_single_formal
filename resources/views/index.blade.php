@@ -27,13 +27,7 @@
 
     @include('about')
 
-    @include('products')
-
-    @include('common.productModal')
-
     @include('services')
-
-    @include('clients')
 
     @include('contact')
 

@@ -4,7 +4,6 @@
     <ol class="carousel-indicators">
         <li data-target="#home" data-slide-to="0" class="active"></li>
         <li data-target="#home" data-slide-to="1"></li>
-        <li data-target="#home" data-slide-to="2"></li>
     </ol>
     <!--/.Indicators-->
 
@@ -32,7 +31,7 @@
         <!--/.First slide-->
 
         <!--Second slide -->
-        <div class="carousel-item">
+        <!-- <div class="carousel-item">
             <div class="wrapper hm-black-strong">
                 <div class="full-bg-img flex-center">
                     <ul class="animated fadeInUp col-md-12">
@@ -45,7 +44,7 @@
                     </ul>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!--/.Second slide -->
 
         <!--Third slide-->
