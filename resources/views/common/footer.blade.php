@@ -23,7 +23,7 @@
                     <h5 class="title">Contact</h5>
                     <ul>
                         <li><i class="fa fa-envelope"></i> jnkrr@gmail.com</li>
-                        <li><i class="fa fa-phone"></i> +63 905 564 0748</li>
+                        <li><i class="fa fa-phone"></i> +63 917 507 3906</li>
                     </ul>
                 </div>
                 <!--/.Third column-->
