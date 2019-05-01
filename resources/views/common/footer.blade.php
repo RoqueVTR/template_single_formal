@@ -57,9 +57,6 @@
                 <div class="col-sm-7 offset-sm-1 text-left">
                     Copyright © 2019 <a href="{{url('/')}}"> JNKRR Infrastructures</a>. All Rights Reserved.
                 </div>
-                <div class="col-sm-3 text-right">
-                    Coded by <a target="_blank" href="//www.theoroque.com/">TheoRoque.com</a>
-                </div>
             </div>
         </div>
     </div>

@@ -25,7 +25,7 @@
 							            <br>
 							            <p>Or would you prefer to call?
 							                <br>
-							                <span><i class="fa fa-phone"> </i></span> +63 917 507 3906 (Globe)
+							                <span><i class="fa fa-phone"> </i></span> +63 905 564 0748
 							            </p>
 							        </div>
 							    </div>
